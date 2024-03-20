@@ -23,7 +23,7 @@ export function Card({ card }: CardProps) {
             {card.channel} * {card.views} * {card.views}
           </Text>
         </View>
-        <Icon name="ellipsis-vertical" size={32} />
+        <Icon name="ellipsis-vertical" size={26} />
       </View>
     </View>
   );
